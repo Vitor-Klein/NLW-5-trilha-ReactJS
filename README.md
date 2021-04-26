@@ -74,6 +74,3 @@ Faça um **fork** do repositório e se te ajudei de alguma forma, deixe uma 🌟
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 ---
-<blockquote>
-    Feito por Pedro Henrique Vinhas 🪐
-</blockquote>
