@@ -1,6 +1,19 @@
 <div align="center">
     <img width=40% src="/public/logo.svg">
 </div>
+
+<div align="center">
+    <h1> Mantenha-se informado no mundo Dev </h1>
+    <a href="https://rocketseat.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/rocketseat-NextLevelWeek5-04d361?logo=&style=for-the-badge&labelColor=8257e5" target="_blank" alt="Next-Level-Week-5">
+    </a>
+    <a href="https://github.com/Vitor-Klein" target="_blank"><img src="https://img.shields.io/badge/author-Vitor-Klein-04d361?logo=&style=for-the-badge&labelColor=8257e5" alt="Github"> </a>
+    <img src="https://img.shields.io/github/languages/count/Vitor-Klein/NLW-5-trilha-ReactJS?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Linguagens"> 
+    <img src="https://img.shields.io/github/languages/top/Vitor-Klein/NLW-5-trilha-ReactJS?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Linguagens"> 
+    <img src="https://img.shields.io/david/dev/Vitor-Klein/NLW-5-trilha-ReactJS?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Dependencias"> 
+    <img src="https://img.shields.io/badge/license-MIT-04d361?logo=&style=for-the-badge&labelColor=8257e5" alt="License">
+</div>
+
 ## 💻 Projeto
 O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. O projeto foi construído ao longo de 5 dias com tecnologias e conceitos mais recentes do desenvolvimento web, usando NextJS e React e fazendo o fetch de uma API fake para trazer novos dados diariamente.
 
